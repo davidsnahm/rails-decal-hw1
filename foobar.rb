@@ -1,3 +1,5 @@
 class Foobar
-  # Q4 CODE HERE
+	def baz(a)
+		a.map!(x to_i(x))
+	end
 end
